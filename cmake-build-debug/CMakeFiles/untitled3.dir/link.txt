@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/untitled3.dir/main.c.o CMakeFiles/untitled3.dir/list.c.o CMakeFiles/untitled3.dir/change.c.o CMakeFiles/untitled3.dir/textManipulation.c.o CMakeFiles/untitled3.dir/serversetup.c.o  -o untitled3.exe -Wl,--out-implib,libuntitled3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

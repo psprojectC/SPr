@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Platon/CLionProjects/untitled3/change.h
+stddef.h
+-
+
+/cygdrive/c/Users/Platon/CLionProjects/untitled3/list.h
+stdio.h
+-
+
+/cygdrive/c/Users/Platon/CLionProjects/untitled3/main.c
+locale.h
+-
+unistd.h
+-
+cygwin/in.h
+-
+change.h
+/cygdrive/c/Users/Platon/CLionProjects/untitled3/change.h
+serversetup.h
+/cygdrive/c/Users/Platon/CLionProjects/untitled3/serversetup.h
+
+/cygdrive/c/Users/Platon/CLionProjects/untitled3/serversetup.h
+netinet/in.h
+-
+pthread.h
+-
+list.h
+/cygdrive/c/Users/Platon/CLionProjects/untitled3/list.h
+
